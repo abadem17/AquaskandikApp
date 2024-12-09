@@ -47,7 +47,7 @@ export default function Contact() {
 
           <div className="bg-gray-100 p-6 rounded-lg">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.952912260219!2d3.375295414770757!3d6.52437895284943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b8b2ae68280c1%3A0xdc9e87a367c3d9cb!2sLagos!5e0!3m2!1sen!2sng!4v1560347030833!5m2!1sen!2sng"
+              src="https://maps.app.goo.gl/7DYc5CFc9X1JB3Fg9"
               width="100%"
               height="300"
               style={{ border: 0 }}
